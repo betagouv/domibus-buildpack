@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Entering bin/detect script – doing nothing"
+exit 0
